@@ -1,0 +1,15 @@
+require_relative 'solver'
+
+Solver.reverse('Hello')
+Solver.reverse('Dilsher')
+Solver.factorial(5)
+Solver.factorial(4)
+Solver.factorial(6)
+Solver.fizzbuzz(15)
+Solver.fizzbuzz(45)
+Solver.fizzbuzz(9)
+Solver.fizzbuzz(18)
+Solver.fizzbuzz(25)
+Solver.fizzbuzz(35)
+Solver.fizzbuzz(19)
+Solver.fizzbuzz(29)
