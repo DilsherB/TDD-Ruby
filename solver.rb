@@ -21,5 +21,3 @@ class Solver
     word.reverse
   end
 end
-
-Solver.new
