@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-require 'solver'
+require '../spec/solver'
 
 describe '#reverse' do
   it 'returns "olleh" when given "hello"' do

@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-require 'solver'
+require '../spec/solver'
 
 describe '#fizzbuzz' do
   it 'returns "fizzbuzz" when num divided by 3 & 5 both' do
