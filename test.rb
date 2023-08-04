@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative 'solver'
 
 my_methods = Solver.new
